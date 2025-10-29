@@ -37,7 +37,7 @@ export const LoginPage = () => {
             className='input-field'
         />
         <input 
-        name='password'
+            name='password'
             type='Password'
             placeholder='Your Password'
             onChange={handleChange}
